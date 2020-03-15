@@ -19,6 +19,15 @@
     <Filter Include="소스 파일\01\HelloCpp">
       <UniqueIdentifier>{15911e6e-ef50-49ec-b8d8-2941810c2d09}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\01\CoutSample">
+      <UniqueIdentifier>{4ef04ee9-21ed-400b-9942-47b932c9b7b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CoutString">
+      <UniqueIdentifier>{3d2f7a4e-c56b-4c4e-8f29-0ba07030190b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CinString">
+      <UniqueIdentifier>{977f744b-f03e-40fa-a842-3faf9ee3f422}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -26,6 +35,15 @@
     </ClCompile>
     <ClCompile Include="helloCpp.cpp">
       <Filter>소스 파일\01\HelloCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="CoutSample.cpp">
+      <Filter>소스 파일\01\CoutSample</Filter>
+    </ClCompile>
+    <ClCompile Include="CoutString.cpp">
+      <Filter>소스 파일\CoutString</Filter>
+    </ClCompile>
+    <ClCompile Include="CinString.cpp">
+      <Filter>소스 파일\CinString</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
