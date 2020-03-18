@@ -22,11 +22,20 @@
     <Filter Include="소스 파일\01\CoutSample">
       <UniqueIdentifier>{4ef04ee9-21ed-400b-9942-47b932c9b7b8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\CoutString">
+    <Filter Include="소스 파일\01\CinString">
+      <UniqueIdentifier>{977f744b-f03e-40fa-a842-3faf9ee3f422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01\CoutString">
       <UniqueIdentifier>{3d2f7a4e-c56b-4c4e-8f29-0ba07030190b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\CinString">
-      <UniqueIdentifier>{977f744b-f03e-40fa-a842-3faf9ee3f422}</UniqueIdentifier>
+    <Filter Include="소스 파일\01\NewDeleteSample">
+      <UniqueIdentifier>{d41b9203-7cdf-474e-82c1-627de20bbdcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01\NewDeleteArray">
+      <UniqueIdentifier>{5551e2c5-25a4-4d64-83c0-bd719bc508b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01\ReferenceType">
+      <UniqueIdentifier>{4a620a24-a592-4696-8b6d-123c1ea56a96}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -40,10 +49,19 @@
       <Filter>소스 파일\01\CoutSample</Filter>
     </ClCompile>
     <ClCompile Include="CoutString.cpp">
-      <Filter>소스 파일\CoutString</Filter>
+      <Filter>소스 파일\01\CoutString</Filter>
     </ClCompile>
     <ClCompile Include="CinString.cpp">
-      <Filter>소스 파일\CinString</Filter>
+      <Filter>소스 파일\01\CinString</Filter>
+    </ClCompile>
+    <ClCompile Include="NewDeleteSample.cpp">
+      <Filter>소스 파일\01\NewDeleteSample</Filter>
+    </ClCompile>
+    <ClCompile Include="NewDeleteArray.cpp">
+      <Filter>소스 파일\01\NewDeleteArray</Filter>
+    </ClCompile>
+    <ClCompile Include="ReferenceType.cpp">
+      <Filter>소스 파일\01\ReferenceType</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
